@@ -1,6 +1,7 @@
 # Annika's react-redux-boilerplate
 
-This is a boilerplate for starting new tdd projects using React, Redux Webpack, Babel on an Express server. Test folder is set up with two basic tests for App.jsx
+This is a boilerplate for starting new tdd projects using React, Redux Webpack, Babel on an Express server. Test folder is set up with two basic tests for App.jsx.
+
 No actions/reducers written yet - apart from a basic combineReducers set up in client/reducers/index.js
 
 # Setup
